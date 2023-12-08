@@ -8,7 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: ABR23-24
-Estudiantes: Abel Hernandez; Elena Zamora.
+Estudiantes: Abel Hernandez; Elena Zamora
 
 ## Descripción del contenido
 
