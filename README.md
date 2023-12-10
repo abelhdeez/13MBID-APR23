@@ -10,6 +10,7 @@ Prof: Dr. Horacio Kuna
 Dictado: ABR23-24
 Estudiantes: Abel Hernandez, Elena Zamora
 
+Repositorio actualizado - Contenido listo para el cierre del Sprint #1
 ## Descripción del contenido
 
 Carpetas:
