@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eleni/OneDrive/MASTER%20BIG%20DATA%20Y%20DATA%20SCIENCE/09_METODOLOGIAS%20DE%20GESTION/Pr%C3%A1ctica/Pr%C3%A1ctica2/Repositorio/13MBID-APR23/examples/mlruns/0/d834c8dfb8ca4643b8f9e0ca1b2d4802/artifacts
+end_time: 1702198397350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d834c8dfb8ca4643b8f9e0ca1b2d4802
+run_name: brawny-bug-297
+run_uuid: d834c8dfb8ca4643b8f9e0ca1b2d4802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702198387099
+status: 3
+tags: []
+user_id: eleni

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eleni/OneDrive/MASTER%20BIG%20DATA%20Y%20DATA%20SCIENCE/09_METODOLOGIAS%20DE%20GESTION/Pr%C3%A1ctica/Pr%C3%A1ctica2/Repositorio/13MBID-APR23/examples/mlruns/0/bed308b09bcf42609d1f26fb389b2359/artifacts
+end_time: 1702198386940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bed308b09bcf42609d1f26fb389b2359
+run_name: adorable-hen-809
+run_uuid: bed308b09bcf42609d1f26fb389b2359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702198371610
+status: 3
+tags: []
+user_id: eleni
