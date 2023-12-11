@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eleni/OneDrive/MASTER%20BIG%20DATA%20Y%20DATA%20SCIENCE/09_METODOLOGIAS%20DE%20GESTION/Pr%C3%A1ctica/Pr%C3%A1ctica2/Repositorio/13MBID-APR23/notebooks/03-Modelado%2BEvaluacion/mlruns/430063814285782480/1df1c76b4ac148d4bf2ec7ded0430a28/artifacts
+end_time: 1702323227174
+entry_point_name: ''
+experiment_id: '430063814285782480'
+lifecycle_stage: active
+run_id: 1df1c76b4ac148d4bf2ec7ded0430a28
+run_name: Decision Tree
+run_uuid: 1df1c76b4ac148d4bf2ec7ded0430a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702323224892
+status: 3
+tags: []
+user_id: eleni
